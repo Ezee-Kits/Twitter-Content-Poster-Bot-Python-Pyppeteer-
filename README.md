@@ -1,5 +1,4 @@
-# <!-- X (Twitter) -->
-![X (Twitter)](https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg)  Twitter Content Poster Bot (Python + Pyppeteer)
+# 🐦Twitter Content Poster Bot (Python + Pyppeteer)
 
 ## 🧠 Overview
 The **Twitter Content Poster Bot** is a high-performance automation system built with **Python** and **Pyppeteer**, capable of automatically posting tweets with **text, images, and videos** — no manual input required!  
