@@ -1,6 +1,5 @@
-# <svg viewBox="0 0 24 24" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="black">
-  <path d="M18.244 2H21.5l-7.367 8.418L22 22h-4.951l-5.15-6.701L6.02 22H2.76l7.819-8.944L2 2h5.03l4.713 6.231L18.244 2zM17.36 20.41h1.37L7.014 3.5H5.545l11.815 16.91z"/>
-</svg>  Twitter Content Poster Bot (Python + Pyppeteer)
+# <!-- X (Twitter) -->
+![X (Twitter)](https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg)  Twitter Content Poster Bot (Python + Pyppeteer)
 
 ## 🧠 Overview
 The **Twitter Content Poster Bot** is a high-performance automation system built with **Python** and **Pyppeteer**, capable of automatically posting tweets with **text, images, and videos** — no manual input required!  
